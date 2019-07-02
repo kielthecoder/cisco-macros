@@ -1,10 +1,3 @@
-// Auto Stop Presentation.js
-// Copyright (c) 2019
-// v1 - Initial release.
-// v2 - Added prompt for user to interrupt auto stop.
-// v3 - Don't clear message window if people presence detected.
-// v4 - Skip prompt if not sharing content.
-
 const xapi = require('xapi');
 const msg = {
     Title: 'End Presentation',
